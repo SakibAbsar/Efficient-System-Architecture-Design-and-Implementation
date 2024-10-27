@@ -1,5 +1,5 @@
 
-# Integrated Hardware Monitoring and Control System
+# Efficient System Architecture Design and Implementation
 
 ## Overview
 This project simulates a hardware monitoring system using embedded sensors to track environmental data, such as temperature and humidity. It also includes actuator control based on predefined conditions, data logging, and a dashboard interface.
