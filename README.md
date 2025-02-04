@@ -1,4 +1,4 @@
-# Advanced System Architecture and Real-Time Monitoring Project
+# Advanced System Architecture
 
 ## Project Overview
 This project integrates circuit modeling, digital component libraries, and a real-time monitoring and control system with data logging and visualization.
